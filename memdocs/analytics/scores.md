@@ -28,7 +28,7 @@ When you first open the **Overview** page in **Endpoint analytics**, you're pres
 
 :::image type="content" source="media/8816759-startup-score.png" alt-text="Screenshot of the startup score page showing an overall startup score of 61 and an all organizations baseline score of 50. Startup subscores are core boot phase at 77 and core sign-in at 46. Under the core sign-in subscore, the average time to responsive desktop is 54 seconds. Insights and recommendations show 40 devices are taking 166 seconds longer than other devices due to startup process delays" lightbox="media/8816759-startup-score.png":::
 
-A status of **insufficient data** means you don't have enough devices reporting to provide a meaningful score. Currently, at least five devices are required.
+A status of **insufficient data** means you don't have enough devices reporting to provide a meaningful score. Currently, at least ten devices are required.
 
 ## Baselines
 
